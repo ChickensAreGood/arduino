@@ -1,3 +1,3 @@
 # arduino
 
-My place to store arduino code.
+My place to store various arduino code.
